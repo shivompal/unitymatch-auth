@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.log
+
+# Pipenv
+Pipfile.lock
+
+# VSCode / Codespaces
+.vscode/
+.history/
+
+# Django specific
+/media/
+staticfiles/
+
+# Byte-compiled
+*.pyo
+*.pyd
